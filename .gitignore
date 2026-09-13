@@ -1,0 +1,10 @@
+# Model checkpoints and large files (models live on HF Hub, not here)
+*.safetensors
+*.bin
+checkpoint-*/
+saved_teacher/
+saved_student/
+wandb/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
