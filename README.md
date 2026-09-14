@@ -1,3 +1,5 @@
+📄 Also see: [a mock PRD](docs/PRD.md) applying product-management framing to this project's technical trade-offs — written to demonstrate product thinking, not an actual company roadmap.
+
 # Code-Mixed Hate Speech Detector — Teacher-Student Distillation
 
 A hate speech classifier for Hindi-English code-mixed text, built around a
