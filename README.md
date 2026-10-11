@@ -10,7 +10,9 @@ include a rigorously tested negative finding about when distillation helps
 and when it doesn't, backed by error analysis.
 
 **Live demo:** https://huggingface.co/spaces/Bharath2kk5/code-mixed-hate-speech-demo
+
 **Teacher model:** https://huggingface.co/Bharath2kk5/hasoc-teacher-xlmr
+
 **Student model:** https://huggingface.co/Bharath2kk5/hasoc-student-distilbert
 
 ## Table of contents
